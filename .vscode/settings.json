@@ -1,0 +1,13 @@
+{
+  "git.ignoreLimitWarning": true,
+  "liveServer.settings.port": 5501,
+  "animations.CursorAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+  "editor.fontLigatures": true,
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true
+}
